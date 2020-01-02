@@ -6,10 +6,10 @@ from os import remove
 bad_file_extensions=(".avi", ".mkv")
 
 #laptop
-folder_path=r"C:\Users\bruno\Desktop\anomalous\shared 2"
+#folder_path=r"C:\Users\bruno\Desktop\anomalous\shared 2"
 
 #LR-PC
-#folder_path=r"C:\Users\bruno\Desktop\resilio shared"
+folder_path=r"D:\Resilio Folders\resilio shared"
 
 #always run
 folder_path+=r"\**\*"
